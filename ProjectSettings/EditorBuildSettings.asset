@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: f12c3fc642994db4a955f94ff54e20e5
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 8ba47ff5fad124746a18e1a38e8da660
+  - enabled: 1
+    path: Assets/Scenes/Identify, Engage and Neutralize The Shooter.unity
+    guid: 4f21ed7f8a13740449d0160601413652
+  - enabled: 1
+    path: Assets/Scenes/Evacuate and Secure The Scene.unity
+    guid: a2fbe3920937c7f48b4bb0e7e8b33594
+  m_configObjects: {}
