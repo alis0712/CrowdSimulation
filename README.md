@@ -6,6 +6,6 @@ Identify, enagage and neutralize the shooter
 Evacuate the scene
 
 
-<https://youtu.be/utyFoPMFDqE>
-https://youtu.be/fphjAbR7fjc
-https://youtu.be/V5FvO9lE-bk
+https://youtu.be/utyFoPMFDqE__
+https://youtu.be/fphjAbR7fjc__
+https://youtu.be/V5FvO9lE-bk__
