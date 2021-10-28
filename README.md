@@ -7,5 +7,5 @@ Evacuate the scene
 
 
 [![Watch the video](https://img.youtube.com/vi/utyFoPMFDqE/maxresdefault.jpg)](https://youtu.be/utyFoPMFDqE)  <br />
-[![Watch the video](https://img.youtube.com/vi/fphjAbR7fjc/maxresdefault.jpg)]https://youtu.be/fphjAbR7fjc <br />
-[![Watch the video](https://img.youtube.com/vi/V5FvO9lE-bk/maxresdefault.jpg)]https://youtu.be/V5FvO9lE-bk <br />
+[![Watch the video](https://img.youtube.com/vi/fphjAbR7fjc/maxresdefault.jpg)](https://youtu.be/fphjAbR7fjc) <br />
+[![Watch the video](https://img.youtube.com/vi/V5FvO9lE-bk/maxresdefault.jpg)](https://youtu.be/V5FvO9lE-bk) <br />
